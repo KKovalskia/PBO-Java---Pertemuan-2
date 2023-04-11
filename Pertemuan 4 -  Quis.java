@@ -22,7 +22,7 @@ public class Class1 {
           int variabel3 = (variabel1 + variabel2);
           System.out.println("Variabel1 + Variabel2 = " +variabel3);
           
-          System.out.println("Dikerjakan oleh Muhammad Kholid Wirauatma + 22201177");
+          System.out.println("Dikerjakan oleh Muhammad Kholid Wirautama + 22201177");
     }
     
 }
